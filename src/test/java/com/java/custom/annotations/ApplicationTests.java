@@ -1,10 +1,10 @@
-package com.java.custom.annotations.javacustomannotations;
+package com.java.custom.annotations;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaCustomAnnotationsApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
