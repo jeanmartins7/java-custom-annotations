@@ -1,13 +1,13 @@
-package com.java.custom.annotations.javacustomannotations;
+package com.java.custom.annotations;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaCustomAnnotationsApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaCustomAnnotationsApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
